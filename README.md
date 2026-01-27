@@ -92,8 +92,9 @@ jAmpler includes a set of global effects applied to the overall output:
 | Compressor        | Controls dynamics by reducing signal peaks with threshold, attack, ratio, and gain. |
 | Distortion       | Adds harmonic distortion with adjustable amount and tone shaping. |
 | Equalizer        | Five-band EQ to boost or cut frequencies (80Hz, 240Hz, 750Hz, 2200Hz, 6600Hz). |
-| Reverb           | Simulates room reverberation with size, tone, delay, and mix controls. |
 | Chorus           | Creates a doubling/modulation effect with rate, depth, and mix control. |
+| Cabinet Simulator | Simulates cabinet impulse response with filters and modulation controls. |
+| Reverb           | Simulates room reverberation with size, tone, delay, and mix controls. |
 
 ---
 
