@@ -24,8 +24,9 @@ jAmpler is a sample-based instrument plugin for iOS and macOS, designed as an Au
   - Compressor.
   - Distortion.
   - Equalizer.
-  - Reverb.
   - Chorus.
+  - Cabinet.
+  - Reverb.  
 - Adjustable velocity curve and keyboard temperament.
 
 ---
