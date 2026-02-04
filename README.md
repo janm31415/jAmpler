@@ -82,6 +82,8 @@ Each sample has the following controls and functions:
 
 ---
 
+If `Apply to all` is activated, the control changes will be applied to all the samples. Otherwise only the active sample is affected.
+
 ## Global Effects
 
 jAmpler includes a set of global effects applied to the overall output:
