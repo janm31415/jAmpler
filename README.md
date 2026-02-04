@@ -151,6 +151,19 @@ jAmpler includes a set of global effects applied to the overall output:
 - Use the `(Un)Assign` mode to customize your keyboard layout and live performance setup.
 
 ---
+## Demos
+
+[Use your own voice to create an instrument](https://www.youtube.com/watch?v=TxWaNkbSjmQ)
+
+[jAmpler Rhodes](https://www.youtube.com/watch?v=kL5pjnblvqg)
+
+[jAmpler electric guitar](https://www.youtube.com/watch?v=9pX5Vfo3e1w)
+
+[jAmpler Wurz](https://www.youtube.com/watch?v=qO-zHlTXogY)
+
+[Whistle to create an instrument](https://www.youtube.com/watch?v=FrFPXq_8yd0)
+
+---
 
 ## Support and Contributions
 
