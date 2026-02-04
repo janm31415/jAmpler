@@ -31,6 +31,38 @@ jAmpler is a sample-based instrument plugin for iOS and macOS, designed as an Au
 
 ---
 
+## System Requirements
+
+jAmpler is an AUv3 (Audio Unit version 3) plugin that can be used as a stand-alone application on iOS and macOS, or as an audio plugin inside a host application on iOS and macOS. 
+
+Minimal requirements are:
+  - iOS 14.0 or later for mobile (iPhone or iPad)
+  - macOS 11.0 or later for desktop / laptop
+
+jAmpler is distributed via the Apple App store. Click on the App store badge to go to the download location.
+
+[![](images/AppStore.png)](https://apps.apple.com/us/app/jampler/id6757974471)
+
+---
+
+## Purchase Info
+
+Installation of jAmpler is free, but it will run in DEMO mode. This means that every minute jAmpler will output 3 seconds of silence. This allows the user to test the audio plugin in depth before purchasing it.
+
+Purchasing jAmpler is a straightforward and user-friendly process, following the standard steps from the Apple App Store you're likely familiar with. Once the plugin is unlocked, the DEMO mode will be gone, and you can enjoy the full potential.
+
+![](images/purchase.png)
+
+To start the payment process you have to run jAmpler in stand-alone mode. A popup as in the image above should appear. Simply tap or click on "Purchase" and the Apple App Store will guide you through the process.
+
+Note that you should only pay once to unlock the plugin. In case you have a new device, you can get the plugin unlocked by clicking on "Restore". If you go a second time through the payment system, no worries, Apple will notice this and give you the plugin for free.
+
+![](images/purchase_daw.png)
+
+Note that it is not possible to purchase the audio plugin via a third-party host application. If you run jAmpler via for instance GarageBand you will get a message as in the image above. Just start the stand-alone jAmpler application if you want to purchase.
+
+---
+
 ## Getting Started
 
 ### Banks and Samples
