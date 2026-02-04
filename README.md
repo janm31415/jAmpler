@@ -80,9 +80,9 @@ Each sample has the following controls and functions:
 | Granular Stereo Spread | Control stereo panning of grains.                              |
 | Granular Window Shape  | Set amplitude envelope shape of grains.                        |
 
----
-
 If `Apply to all` is activated, the control changes will be applied to all the samples. Otherwise only the active sample is affected.
+
+---
 
 ## Global Effects
 
