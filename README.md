@@ -164,9 +164,10 @@ The following import options are available via the `Presets` menu. Note that, de
 On the piano keyboard, some keys are assigned to specific samples.
 
 - When you press an assigned key, its sample plays at its original pitch given that `Original` is on.
-- When you press an assigned key, but the corresponding sample's `Original` parameter is off, jAmpler will compute the sample's pitch and pitch-shift the sample to make it match the pitch of the key that was pressed. An advanced pitch-shift algorithm is used to preserve the overall sound character, keeping all harmonic and formant details intact. 
-- If you press a key that is not assigned to a sample, jAmpler finds the nearest assigned key and plays that sample.
-- The sample is then pitch‑shifted so that it matches the pitch of the key you actually pressed. In this case the pitch-shift algorithm is very simple and computationally cheap: the playback speed of the sample is altered. Playing faster raises the pitch, playing slower lowers it.
+- When you press an assigned key, but the corresponding sample's `Original` parameter is off, jAmpler will compute the sample's pitch and pitch-shift the sample to make it match the pitch of the key that was pressed. An advanced pitch-shift algorithm is used to preserve the overall sound character, keeping all harmonic and formant details intact. This method produces natural‑sounding results even when shifting by larger intervals, but it requires more processing power.
+- If you press a key that is not assigned to a sample, jAmpler finds the nearest assigned key and plays that sample. The sample is then pitch‑shifted so that it matches the pitch of the key you actually pressed. In this case the pitch-shift algorithm is very simple and computationally cheap: the playback speed of the sample is altered. Playing faster raises the pitch, playing slower lowers it.
+
+A good strategy is to not assign all the keys on the keyboard to a sample, but to keep 66% or more of the keys unassigned. Take a look at the assignment strategy of the factory presets.
 
 ---
 ## Demos
