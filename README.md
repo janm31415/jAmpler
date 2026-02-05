@@ -133,6 +133,13 @@ jAmpler includes a set of global effects applied to the overall output:
 
 ---
 
+## Import options
+
+- Load a Yamaha DX7 sysex file (large collection here: https://bobbyblues.recup.ch/yamaha_dx7/dx7_patches.html). Samples will be generated automatically for each of the 32 patches in the DX7 sysex soundbank.
+- Load sfz files (https://sfzformat.com/). In order to successfully load a sfz file, you should first compress the whole folder with all the samples and .sfz files into a .zip file. Next, you can import this .zip file in jAmpler. 
+
+---
+
 ## Additional Settings
 
 - **Velocity Curve:** Adjust how incoming MIDI velocity affects output volume.
