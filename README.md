@@ -137,6 +137,7 @@ jAmpler includes a set of global effects applied to the overall output:
 The following import options are available via the `Presets` menu. Note that, depending on the size of the samples, import can take a while to complete. During import, jAmpler will not respond until the import procedure is completed.
 - Load a Yamaha DX7 sysex file (large collection [here](https://bobbyblues.recup.ch/yamaha_dx7/dx7_patches.html)). Samples will be generated automatically for each of the 32 patches in the DX7 sysex soundbank.
 - Load [sfz files](https://sfzformat.com/). In order to successfully load a sfz file, you should first compress the whole folder with all the samples and .sfz files into a .zip file. Next, you can import this .zip file in jAmpler. A nice sfz collection is the [Sonatina Symphonic Orchestra](https://sfzinstruments.github.io/orchestra/sso/) that can be downloaded freely [here](https://github.com/peastman/sso/releases).
+- Load sf2 SoundFont files. Samples will be generated automatically for each of the presets in the SoundFont file.
 
 ---
 
@@ -146,6 +147,7 @@ The following import options are available via the `Presets` menu. Note that, de
 - **Temperament:** Choose tuning and temperament settings, including standard 440Hz.
 - **Panic Button:** Instantly silence all sounds.
 - **Silent Mode:** When enabled, samples activate silently (without playback on activation).
+- **Mic On/Off:** When the mic icon is on, the microphone input is mixed with the output signal.
 
 ---
 
